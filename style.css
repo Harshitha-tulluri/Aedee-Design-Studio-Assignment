@@ -379,6 +379,10 @@ footer {
         margin-top: -80px;
     }
 
+    .btn-connect{
+        margin-top: 5px;
+    }
+
     .btn-learn-more{
         margin-top: 20px;
     }
@@ -387,6 +391,9 @@ footer {
         margin-top:20px;
     }
 
+    nav ul{
+        font-size:10px ;
+    }
 
     .stats .container {
         flex-direction: column;
